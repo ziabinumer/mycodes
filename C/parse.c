@@ -37,7 +37,7 @@ int main()
 {
     int k = 0;
     char *text;
-    printf("Enter text: );
+    printf("Enter text: ");
     scanf("%s", *&text);
     int len = strlen(text);
     for (int i = 0; i < len; i++) if (text[i] == 'o') k++;
@@ -47,5 +47,7 @@ int main()
     {
       printf("%i ", *(returnedArr + i));
     }
+    printf("\n");
+    return 0;
 
 }
