@@ -1,4 +1,4 @@
-// CTRL + ALT + R
+// program to sort array
 #include <stdio.h>
 
 int main(void)
