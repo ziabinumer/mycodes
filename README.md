@@ -1,3 +1,3 @@
 # mycodes
 
-I add all the programs I write in this repository
+It contains all the codes I write
